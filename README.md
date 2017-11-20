@@ -2,6 +2,7 @@
 
 
 $ ionic cordova plugin add cordova-plugin-advanced-http
+
 $ npm install --save @ionic-native/http
 
 通过上述命令引入http插件后，无法正常使用，提示插件不可用。通过排查，
