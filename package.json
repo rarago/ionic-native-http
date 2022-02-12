@@ -42,7 +42,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/@ionic-native/http/download/@ionic-native/http-4.4.2.tgz",
+  "_resolved": "https://registry.npmmirror.com/@ionic-native/http/download/@ionic-native/http-4.4.2.tgz",
   "_shasum": "bf991e93b40dbb899921ee851d0681175443ca4e",
   "_shrinkwrap": null,
   "_spec": "@ionic-native/http@^4.2.1",
@@ -61,7 +61,7 @@
     "shasum": "bf991e93b40dbb899921ee851d0681175443ca4e",
     "size": 5843,
     "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/@ionic-native/http/download/@ionic-native/http-4.4.2.tgz"
+    "tarball": "https://registry.npmmirror.com/@ionic-native/http/download/@ionic-native/http-4.4.2.tgz"
   },
   "homepage": "https://github.com/ionic-team/ionic-native#readme",
   "license": "MIT",
